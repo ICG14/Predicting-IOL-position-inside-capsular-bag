@@ -1,6 +1,5 @@
 # Predicting-IOL-position-inside-capsular-bag
-Additional videos
 
-Two videos of the IOL behavior inside the capsular bag
+Two Additional videos of the simulation with a precataract and postcaract capsular bag are uploaded.
 
-Videos will be uploaded...
+Please, don't hesistate to let any suggestion regarding the publication "Predicting the biomechanical stability of IOLs inside the postcataract capsular bag with a finite element model" in  Computer Methods and Programs in Biomedicine.
